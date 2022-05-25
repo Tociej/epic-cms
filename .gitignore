@@ -1,4 +1,11 @@
-/node_modules/
-/public/build/
+cms-svelte/node_modules/
+cms-svelte/public/build/
+cms-svelte/dase.zip
+cms-py/Scripts/
+cms-py/Include/
+cms-py/pyvenv.cfg
+cms-py/Lib/
+cms-py/database.sqlite
+
 
 .DS_Store
